@@ -5,4 +5,4 @@ Serves translations to multiple languages.
 
 ## Installation
 
-```go get github.com/hellowearemito/i18n.git```
+```$ go get github.com/hellowearemito/i18n.git```
